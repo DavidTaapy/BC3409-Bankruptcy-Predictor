@@ -14,4 +14,5 @@ The website can be accessed at: https://bc3409-bankruptcy-prediction.herokuapp.c
 
 ## Snapshot
 The following shows the app predicting a bankruptcy score of 0.56 when NPTA = 0.1, TLTA = 0.1 and WCTA = 0.1!
+</br>
 ![Snapshots](/snapshots/Snapshot.png)
