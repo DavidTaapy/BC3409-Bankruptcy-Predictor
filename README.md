@@ -9,9 +9,6 @@ The following application makes use of a python backend and a frontend to show t
 ## Model
 Keras was the library used to create the model for predicting the bankruptcy score
 
-## Live Website
-The website can be accessed at: https://bc3409-bankruptcy-prediction.herokuapp.com/!
-
 ## Snapshot
 The following shows the app predicting a bankruptcy score of 0.56 when NPTA = 0.1, TLTA = 0.1 and WCTA = 0.1!
   
